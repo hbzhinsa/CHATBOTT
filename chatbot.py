@@ -118,7 +118,7 @@ def chat():
 
             print(random.choice(responses))
         else:
-            print('This question is too hard for me, maybe I need more traning')
+            print('This question is too hard for me, maybe I need more training')
 
 chat()
 
